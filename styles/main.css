@@ -1,0 +1,13 @@
+.information_about_countries img {
+    width: 400px;
+}
+.information_about_countries{
+    position: relative;
+}
+.information_text{
+    position: absolute;
+    width: 297px;
+    color: white;
+    bottom: 63px;
+
+}
